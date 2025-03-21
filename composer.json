@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "nizerin/tron-api": ">0.0.1",
+        "nizerin/tron-api": ">=0.0.1",
         "ionux/phactor": "1.0.8",
         "kornrunner/keccak": "~1.0"
     },
